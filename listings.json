@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 1,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "90 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 8527,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 2,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "77 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 4660,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 3,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "73 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 9054,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 4,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "136 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3056,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 5,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "147 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 4527,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 6,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "45 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3620,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 7,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "66 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 11911,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 8,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "143 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 10928,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 9,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "97 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3727,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 10,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "131 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3242,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 11,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "52 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 4904,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 12,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "161 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3786,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 13,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "188 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 5667,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 14,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "199 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 11560,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 15,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "133 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 11003,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 16,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "142 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3511,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 17,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "128 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 10099,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 18,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "72 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3019,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 19,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "103 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4158,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 20,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "21 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 8647,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 21,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "103 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4875,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 22,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "144 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3754,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 23,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "84 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3288,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 24,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "138 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 10568,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 25,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "124 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 8767,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 26,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "189 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 8521,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 27,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "12 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3322,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 28,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "166 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 5517,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 29,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "133 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4855,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 30,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "45 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3772,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 31,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "111 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 5653,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 32,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "12 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3853,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 33,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "173 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 4070,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 34,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "123 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 5136,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 35,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "45 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 9594,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 36,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "28 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4314,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 37,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "7 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 11072,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 38,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "66 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 10917,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 39,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "8 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 10439,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 40,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "184 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3875,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 41,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "113 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 10870,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 42,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "89 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3506,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 43,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "34 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 9743,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 44,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "41 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3524,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 45,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "13 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4261,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 46,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "92 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3280,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 47,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "63 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 5470,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 48,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "143 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 10803,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 49,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "63 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3527,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 50,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "142 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 5284,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 51,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "19 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4699,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 52,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "50 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3682,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 53,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "93 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 11288,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 54,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "139 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 11800,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 55,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "163 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 5682,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 56,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "25 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 4086,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 57,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "2 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4193,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 58,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "132 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 11143,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 59,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "39 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3773,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 60,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "127 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 10254,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 61,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "180 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4711,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 62,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "37 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3721,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 63,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "1 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3243,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 64,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "189 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 11716,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 65,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "101 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3367,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 66,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "161 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4519,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 67,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "95 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 11365,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 68,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "111 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 9831,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 69,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "104 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 5690,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 70,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "41 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 4601,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 71,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "187 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 10875,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 72,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "132 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 10504,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 73,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "186 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3269,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 74,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "168 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 8746,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 75,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "84 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3503,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 76,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "178 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 8392,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 77,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "61 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 10272,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 78,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "111 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3276,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 79,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "116 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3292,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 80,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "105 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4728,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 81,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "9 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3354,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 82,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "97 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 8876,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 83,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "165 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 9059,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 84,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "61 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 5603,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 85,
+    "title": "1BHK Home in Hyderabad",
+    "location": "Hyderabad",
+    "address": "140 Banjara Hills, Hyderabad",
+    "bedrooms": 1,
+    "price": 3951,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 86,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "133 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 11003,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 87,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "26 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4324,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 88,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "130 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 4260,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 89,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "71 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 5181,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 90,
+    "title": "2BHK Home in Siddipet",
+    "location": "Siddipet",
+    "address": "57 1st Avenue, Siddipet",
+    "bedrooms": 2,
+    "price": 4383,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 91,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "182 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 8250,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 92,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "106 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 8023,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 93,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "122 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 4777,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 94,
+    "title": "1BHK Home in Suryapet",
+    "location": "Suryapet",
+    "address": "175 MG Road, Suryapet",
+    "bedrooms": 1,
+    "price": 3342,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 95,
+    "title": "2BHK Home in Mancherial",
+    "location": "Mancherial",
+    "address": "69 Park Lane, Mancherial",
+    "bedrooms": 2,
+    "price": 5800,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 96,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "75 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 11586,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 97,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "108 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 8534,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 98,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "49 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 8881,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 99,
+    "title": "3BHK Home in Karimnagar",
+    "location": "Karimnagar",
+    "address": "83 Park Lane, Karimnagar",
+    "bedrooms": 3,
+    "price": 8834,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 100,
+    "title": "3BHK Home in Nizamabad",
+    "location": "Nizamabad",
+    "address": "171 Main St, Nizamabad",
+    "bedrooms": 3,
+    "price": 10154,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 101,
+    "title": "2BHK Home in Jagtial",
+    "location": "Jagtial",
+    "address": "15 Station Road, Jagtial",
+    "bedrooms": 2,
+    "price": 4800,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 102,
+    "title": "3BHK Home in Jagtial",
+    "location": "Jagtial",
+    "address": "42 MG Road, Jagtial",
+    "bedrooms": 3,
+    "price": 9200,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 103,
+    "title": "1BHK Home in Jagtial",
+    "location": "Jagtial",
+    "address": "8 Park Lane, Jagtial",
+    "bedrooms": 1,
+    "price": 3500,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 104,
+    "title": "2BHK Home in Jagtial",
+    "location": "Jagtial",
+    "address": "73 Main St, Jagtial",
+    "bedrooms": 2,
+    "price": 5100,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 105,
+    "title": "3BHK Home in Jagtial",
+    "location": "Jagtial",
+    "address": "19 1st Avenue, Jagtial",
+    "bedrooms": 3,
+    "price": 10150,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 106,
+    "title": "1BHK Home in Jagtial",
+    "location": "Jagtial",
+    "address": "121 Park Lane, Jagtial",
+    "bedrooms": 1,
+    "price": 3650,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 107,
+    "title": "2BHK Home in Jagtial",
+    "location": "Jagtial",
+    "address": "56 Banjara Hills, Jagtial",
+    "bedrooms": 2,
+    "price": 4950,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 108,
+    "title": "3BHK Home in Jagtial",
+    "location": "Jagtial",
+    "address": "200 MG Road, Jagtial",
+    "bedrooms": 3,
+    "price": 11500,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 109,
+    "title": "1BHK Home in Jagtial",
+    "location": "Jagtial",
+    "address": "33 Main St, Jagtial",
+    "bedrooms": 1,
+    "price": 3420,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 110,
+    "title": "2BHK Home in Jagtial",
+    "location": "Jagtial",
+    "address": "89 Park Lane, Jagtial",
+    "bedrooms": 2,
+    "price": 5280,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 111,
+    "title": "1BHK Home in Nakrekal",
+    "location": "Nakrekal",
+    "address": "22 Station Road, Nakrekal",
+    "bedrooms": 1,
+    "price": 3300,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 112,
+    "title": "2BHK Home in Nakrekal",
+    "location": "Nakrekal",
+    "address": "67 MG Road, Nakrekal",
+    "bedrooms": 2,
+    "price": 4725,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 113,
+    "title": "3BHK Home in Nakrekal",
+    "location": "Nakrekal",
+    "address": "105 Park Lane, Nakrekal",
+    "bedrooms": 3,
+    "price": 9800,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 114,
+    "title": "1BHK Home in Nakrekal",
+    "location": "Nakrekal",
+    "address": "14 1st Avenue, Nakrekal",
+    "bedrooms": 1,
+    "price": 3520,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 115,
+    "title": "2BHK Home in Nakrekal",
+    "location": "Nakrekal",
+    "address": "88 Main St, Nakrekal",
+    "bedrooms": 2,
+    "price": 5050,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 116,
+    "title": "3BHK Home in Nakrekal",
+    "location": "Nakrekal",
+    "address": "154 Park Lane, Nakrekal",
+    "bedrooms": 3,
+    "price": 11200,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 117,
+    "title": "1BHK Home in Nakrekal",
+    "location": "Nakrekal",
+    "address": "39 Banjara Hills, Nakrekal",
+    "bedrooms": 1,
+    "price": 3655,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 118,
+    "title": "2BHK Home in Nakrekal",
+    "location": "Nakrekal",
+    "address": "123 MG Road, Nakrekal",
+    "bedrooms": 2,
+    "price": 4880,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 119,
+    "title": "3BHK Home in Nakrekal",
+    "location": "Nakrekal",
+    "address": "201 Main St, Nakrekal",
+    "bedrooms": 3,
+    "price": 10500,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 120,
+    "title": "1BHK Home in Nakrekal",
+    "location": "Nakrekal",
+    "address": "72 Park Lane, Nakrekal",
+    "bedrooms": 1,
+    "price": 3410,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 121,
+    "title": "2BHK Home in Nalgonda",
+    "location": "Nalgonda",
+    "address": "10 Station Road, Nalgonda",
+    "bedrooms": 2,
+    "price": 4950,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 122,
+    "title": "1BHK Home in Nalgonda",
+    "location": "Nalgonda",
+    "address": "45 MG Road, Nalgonda",
+    "bedrooms": 1,
+    "price": 3600,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 123,
+    "title": "3BHK Home in Nalgonda",
+    "location": "Nalgonda",
+    "address": "120 Park Lane, Nalgonda",
+    "bedrooms": 3,
+    "price": 10200,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 124,
+    "title": "2BHK Home in Nalgonda",
+    "location": "Nalgonda",
+    "address": "88 Main St, Nalgonda",
+    "bedrooms": 2,
+    "price": 5200,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 125,
+    "title": "1BHK Home in Nalgonda",
+    "location": "Nalgonda",
+    "address": "33 1st Avenue, Nalgonda",
+    "bedrooms": 1,
+    "price": 3450,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 126,
+    "title": "3BHK Home in Nalgonda",
+    "location": "Nalgonda",
+    "address": "150 Banjara Hills, Nalgonda",
+    "bedrooms": 3,
+    "price": 11050,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 127,
+    "title": "2BHK Home in Nalgonda",
+    "location": "Nalgonda",
+    "address": "56 Park Lane, Nalgonda",
+    "bedrooms": 2,
+    "price": 4990,
+    "image": "Images/double.jpg"
+  },
+  {
+    "id": 128,
+    "title": "1BHK Home in Nalgonda",
+    "location": "Nalgonda",
+    "address": "77 Main St, Nalgonda",
+    "bedrooms": 1,
+    "price": 3530,
+    "image": "Images/single.jpg"
+  },
+  {
+    "id": 129,
+    "title": "3BHK Home in Nalgonda",
+    "location": "Nalgonda",
+    "address": "200 MG Road, Nalgonda",
+    "bedrooms": 3,
+    "price": 10800,
+    "image": "Images/triple.jpg"
+  },
+  {
+    "id": 130,
+    "title": "2BHK Home in Nalgonda",
+    "location": "Nalgonda",
+    "address": "99 Park Lane, Nalgonda",
+    "bedrooms": 2,
+    "price": 5130,
+    "image": "Images/double.jpg"
+  }
+]

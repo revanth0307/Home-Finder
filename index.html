@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DreamHome Finder</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet"/>
+</head>
+<body>
+  <!-- Splash / Intro Screen -->
+  <div id="splash">
+    <video
+      id="introVideo"
+      src="Video/doors.mp4"
+      muted
+      autoplay
+      playsinline
+      preload="auto"
+    ></video>
+    <button id="knockBtn" class="hidden">Knock Knock 🚪</button>
+  </div>
+
+  <!-- Main App Container (hidden initially) -->
+  <div id="app" class="hidden">
+    <header>
+      <h1>🏠 DreamHome Finder</h1>
+      <p>Stay Next to uhh!!</p>
+    </header>
+
+    <section class="filters">
+      <input type="text" id="location" placeholder="Location (e.g., Hyderabad)" />
+      <input type="number" id="minPrice" placeholder="Min Price (₹)" />
+      <input type="number" id="maxPrice" placeholder="Max Price (₹)" />
+      <select id="bedrooms">
+        <option value="">Bedrooms</option>
+        <option value="1">1+</option>
+        <option value="2">2+</option>
+        <option value="3">3+</option>
+      </select>
+      <button id="searchBtn">Search</button>
+    </section>
+
+    <main id="listings"></main>
+    <div id="pagination" class="pagination"></div>
+
+    <footer>
+      <p>© 2025 DreamHome Finder. All rights reserved.</p>
+    </footer>
+
+   <!-- Detail Modal -->
+<div id="detailModal" class="modal">
+  <div class="modal-content">
+    <span id="modalClose" class="modal-close">&times;</span>
+    <img id="modalImage" src="" alt="House Image"/>
+    <h2 id="modalTitle"></h2>
+    <p id="modalLocation"></p>
+    <p id="modalAddress"></p>
+    <p id="modalBedrooms"></p>
+    <p id="modalPrice"></p>
+    <!-- New Google Maps Link -->
+    <p><a id="modalMapLink" href="#" target="_blank">View on Google Maps</a></p>
+  </div>
+</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
